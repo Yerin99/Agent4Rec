@@ -146,3 +146,7 @@ logs/
 
 transcmt.py
 *.out
+
+# Ignore data folder as it contains test results
+tests/data/
+ver_amazon/data/
